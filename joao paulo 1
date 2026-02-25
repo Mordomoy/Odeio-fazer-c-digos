@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <h1> TODO MUNDO odeia!</h1>
+            <ul>
+            <li>A escola EE João joão Ramacciotti</li>
+            <li>Quiabo</li>
+            <li>Sala do futuro
+            <li>Biscoito de povilho doce
+            <li>Feriado no fim de semana</li>
+            <li>Sorvete chocomenta</li>
+            <li>Provas</li>
+            <li>Acordar cedo</li>
+            <li>Chris</li>
+            <li>Spotify Free</li>
+            </ul>
+
+        <h1> TODO MUNDO gosta!</h1>
+            <ol>
+            <li>Férias</li>
+            <li>Friv </li>
+            <li>Feriado prolongado</li>
+            <li>Carros 4 </li>
+            <li>Sorvete da Peppa pig</li>
+            <li>Youtube no prime</li>
+            <li>Pastel</li>
+            <li>Música</li>
+            <li>Pix</li>
+            <li>Viajar</li>
+            </ol>
+        <img src="https://4.bp.blogspot.com/-9GYK4VG5XYc/WyZvkjDgENI/AAAAAAAAaVs/bN3ekeCwu0gHJy_Nsr72VlZb0AKE-kCTgCLcBGAs/s1600/peppa_gelato.jpg". 
+        width="300">
+            
+        
+</html>
