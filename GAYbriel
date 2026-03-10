@@ -2,12 +2,12 @@ import random
 
 # Lista de frases para o gênero masculino
 frases_masculino = [
-    (0, "Hétero até no modo avião. Nem um glitter passou perto."),
+    (0, "Hétero top de mais, Nem um glitter passou perto."),
     (10, "Só um pezinho na pista... mas ainda nega até o último segundo."),
     (20, "Curte Lady Gaga em segredo. Tá começando a desconfiar."),
-    (30, "Já deu uma olhadinha no boy da academia. Só curiosidade, né?"),
+    (30, "Já quis experimentar os amigos. Só curiosidade, né?"),
     (40, "Sabe a coreografia de 'Single Ladies'. Coincidência?"),
-    (50, "Meio termo: metade arco-íris, metade negação."),
+    (50, "Meio termo: metade arco-íris, metade preto, cinza e branco."),
     (60, "Já foi em uma festa LGBTQIA+ e amou. Tá quase lá!"),
     (70, "Usa cropped e glitter sem medo. A vibe tá fluindo!"),
     (80, "Canta Pabllo Vittar no chuveiro e tem playlist de divas pop."),
@@ -17,15 +17,15 @@ frases_masculino = [
 
 # Lista de frases para o gênero feminino
 frases_feminino = [
-    (0, "Hétero até no modo avião. Só usa maquiagem para ir ao shopping."),
-    (10, "Só um pezinho na pista... mas ainda nega que gosta da Bruna Marquezine."),
-    (20, "Curte a Anitta em segredo. Tá começando a desconfiar."),
+    (0, "Hétero top. Só usa maquiagem para ir ao shopping."),
+    (10, "Só um pezinho na pista... ainda fala que gosta da Bruna Marquezine."),
+    (20, "Curte a Ludmilla em segredo. Tá começando a desconfiar."),
     (30, "Já deu uma olhadinha na girl da academia. Só curiosidade, né?"),
     (40, "Sabe a coreografia de 'Single Ladies' e usa cropped sem medo. Coincidência?"),
-    (50, "Meio termo: metade arco-íris, metade negação."),
+    (50, "Meio termo: metade hetero, metade selinho na amiga"),
     (60, "Já foi em uma festa LGBTQIA+ e amou. Tá quase lá!"),
-    (70, "Usa glitter sem medo. A vibe tá fluindo!"),
-    (80, "Canta Pabllo Vittar no chuveiro e tem playlist de divas pop."),
+    (70, "Usa anel de cocô sem medo. A vibe tá fluindo!"),
+    (80, "Tem bandeira no quarto."),
     (90, "Já tá dando close certo. Só falta assumir no grupo da família."),
     (100, "Ícone LGBTQIA+! Brilha mais que a bola de espelhos da boate.")
 ]
