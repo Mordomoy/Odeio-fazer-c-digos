@@ -1,1 +1,12 @@
-O "len" é tamanho
+O "len" é tamanho (Dielme)
+
+? = variável
+Tipos de variável
+Cons = constante
+Var = variável global
+let = variável cocol
+var idade = 12
+if(codicional) {
+if(idade==12)
+if = se
+else = se não
