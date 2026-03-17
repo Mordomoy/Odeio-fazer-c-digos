@@ -1,0 +1,42 @@
+import random
+import time
+
+# Frases estilo "aura farming"
+frases = [
+    (0, "Nem beta é, é ômega, sem aura nenhuma."),
+    (10, "Tentando farmar aura...mas não passa de um betinha"),
+    (20, "Oxi tropa."),
+    (30, "Skibi toilet yes yes..."),
+    (40, "É platina no free fire."),
+    (50, "É sabooooooor aura."),
+    (60, "Permissão para chorar soldado, anjo caído."),
+    (70, "TUDO FRACO CLIPA AI."),
+    (80, "Tem todos os bainrots no roblox. Aura."),
+    (90, "Pegou mestre no free fire. Tem respeito, aura mais ego."),
+    (100, "Vc está no clubeeeeeexxx, bandido não chorax, não grita, sigama boy, Aura, 676767, lá ele, saboooor, alfa, ego, bora bill, skibidi toilet")
+]
+
+nome = input("Digite o nome do pro player: ")
+
+print("\n🔄 Calculando aura...")
+time.sleep(1)
+print("📡 Vendo quantos brainrots vc tem...")
+time.sleep(1)
+print("⚡ Farmando aura...")
+time.sleep(1)
+
+porcentagem = random.randint(0, 100)
+
+frase = max(frases, key=lambda x: x[0] if x[0] <= porcentagem else -1)[1]
+
+print("\n✨Nivel de formação✨ ")
+print(f"👤 Pro player: {nome}")
+print(f"🔥 Aurax: {porcentagem}%")
+print(f"💬 {frase}")
+
+# bônus: evento raro
+evento = random.randint(1, 20)
+if evento == 1:
+    print("\n💀 EVENTO RARO: vc ganhou todos os tun run sahur lendários!")
+elif evento == 2:
+    print("\n✨ DROP LENDÁRIO: +1000 de aura temporária!")
