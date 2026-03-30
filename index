@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<link ref="styleSheet" href="style.css">
+
+<body>
+    <style>
+        body {
+        background-color: rgb(249, 192, 216);
+        }
+        h1{
+            color: rgb(110, 42, 192);
+        }
+ 
+        li{
+            color: rgb(110, 42, 192);
+        }
+    </style>
+    
+    <h1>Meu ódio por código</h1>
+    <li><a href="index html"> Ódio</a> </li>
+    <li><a href="sobre html"> Sobre meu ódio </a></li>
+    <li><a href="contato html"> Contato(não tenha)</a></li>
+    <li><a href="site 1 html"> Meu primeiro site </a></li>
+    <li><a href="index"> Site que eu fiz na base da raiva </a></li>
+
+    
+</body>
+</html>
