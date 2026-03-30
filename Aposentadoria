@@ -1,0 +1,7 @@
+let idade = numero
+let contribuições = numero 
+if ( idade <=60 || contribuições >=180 ) {
+    console.log ('pode aposentar')
+} else {
+    console.log ('não pode se aposentar');
+};
