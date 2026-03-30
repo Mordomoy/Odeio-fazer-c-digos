@@ -1,0 +1,12 @@
+const idade =18;
+const cnh=false
+console.log(idade)
+if (idade >=18 && cnh===true){
+    console.log("maior de idade e pode dirigir")
+} else if(idade >=18 && cnh===false){
+    console.log("maior de idade sem cnh, procurar a auto escola")
+}
+ else {
+    console.log("menor de idade")
+}
+ 
