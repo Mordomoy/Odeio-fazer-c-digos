@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        body {
+        background-color: rgb(255, 255, 255);
+        }
+        h1{
+            color: rgb(192, 42, 42);
+        }
+        h2{
+            color: rgb(192, 42, 42);
+        }
+        h4{
+            color: rgb(192, 42, 42);
+        }
+       
+    </style>
+    <ul>
+    <h1>Dengue: Cuidar de nós é a nossa melhor lição, conheça os sintomas da doença e saiba como previnir. </h1>
+    <p> Na escola, a gente aprende que pequenas ações mudam o mundo. Contra a Dengue, Zika e Chikungunya, o nosso maior aprendizado é a prevenção. 75% dos focos do mosquito estão dentro das nossas casas e quintais. Que tal transformarmos o cuidado em um hábito diário?</p>
+    <img width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5wi5_OV1zxKHzrvyh0urotR5qT4Nj3CB0PiT6CFPBpMcuTgON-3EMKbRq3Iw-391914Rw6phLQIMqIgRJFLxgOf0fU4emSRmlZqF94YGXMFtKCuZHqxwJv8hCFwyrCW38En47EhK1GkuAv4dt_6q_84P0mDXcsAhAowsRcbnpGA5wokU5M6G6mqPEf_Hr/s800/mosc.gif."">
+   
+   <h3>1. Não ignore os sinais. Se você ou alguém da sua família sentir:</h3>
+   <p>Febre que sobe rápido: Aquela que te deixa prostrado de uma hora para outra.</p> 
+   <p> Dor 'atrás dos olhos': Um sintoma muito comum da dengue.</p> 
+   <p>Corpo cansado: Dores nas articulações e músculos, como se tivesse feito muito esforço.</p> 
+   <p> Manchinhas vermelhas: Se a pele apresentar marcas ou coceira, fique atento.</p> 
+    <h2>🚨 SINAL DE ALERTA 🚨</h2> 
+    <img width="100" src="  https://media.tenor.com/mZuCRpWtld4AAAAM/be-doo-be-doo-minion".>
+    <h4>Se houver dor forte na barriga, vômitos persistentes ou qualquer sangramento (nariz ou gengiva), PROCURE UM MÉDICO IMEDIATAMENTE, NÃO ESPERE!</h4> 
+    <h3> 2. Nossa Missão: 10 Minutos de Cuidado  </h3> 
+    <p> Vire o jogo: Garrafas, pneus e potes vazios? Sempre de boca para baixo.</p>
+    <p> Check nas plantas: Pratinhos de vasos precisam de areia ou estar sempre secos.</p>
+    <p>Água protegida: Caixa d'água bem tampada é o segredo para o mosquito não entrar.</p>
+    <p> Cuidado extra: Use repelente e roupas que protejam o corpo, especialmente nas primeiras horas da manhã.</p>
+    <h3> 3. Vacina no SUS: Proteção para a nossa galera </h3>
+    <p>"A ciência é nossa aliada! A vacina contra a dengue já está disponível no SUS para alunos entre 10 e 14 anos em várias cidades. Ela é um reforço incrível, mas lembre-se: o combate ao mosquito continua sendo um dever de todos nós."</p>
+    <h2>Vamos juntos? </h2>
+    <p>"Se cada aluno tirar 10 minutos por semana para conferir sua casa, nossa comunidade escolar inteira fica protegida. Se tiver sintomas, descanse, beba muita água e procure a Unidade Básica de Saúde (UBS) mais próxima. A hora de cuidar é agora!"</p>
+    <img width="250" src="https://img1.picmix.com/output/pic/normal/3/5/8/0/5520853_7b7d2.gif".>
+    </ul>
+</body>
+</html>
+</ul>
